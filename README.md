@@ -1,2 +1,1 @@
-# document-metadata-reader
-Reads the metadata from the MS documents
+# Document Metadata Extractor
