@@ -2,7 +2,7 @@ package com.smuralee.documents.types;
 
 import com.smuralee.documents.dto.FileInfo;
 import com.smuralee.util.Utility;
-import org.apache.poi.POIXMLProperties;
+import org.apache.poi.ooxml.POIXMLProperties;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.File;

@@ -3,7 +3,7 @@ package com.smuralee.util;
 import com.itextpdf.text.pdf.PdfDate;
 import com.smuralee.documents.dto.FileInfo;
 import org.apache.commons.io.FilenameUtils;
-import org.apache.poi.POIXMLProperties;
+import org.apache.poi.ooxml.POIXMLProperties;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
