@@ -1,5 +1,8 @@
 # Document Metadata Reader
 
+## Archive Notice
+This project is being archived as of July 2024.
+
 ## Introduction
 The document metadata reader is used to extract the metadata of the documents. The supported documents are as follows
 * .docx - Microsoft Word Document
